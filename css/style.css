@@ -63,7 +63,13 @@ body {
     float: left;
     margin-right: 50px;
 }
+.pro1 {
+    width: 20%;
+    float: left;
+    margin-right: 50px;
+}
 .skill-image {
+    width: 25%;
     border-radius: 100%;
     float: right;
     margin-left: 50px;
@@ -112,11 +118,13 @@ body {
     color:darkcyan;
 }
 
-.contact-me1, .contact-me2 {
-    padding: 20px 100px 20px 100px;
+.contact-me1 {
+    padding: 0px 20px;
     line-height: 2;
 }
 .contact-me2 {
+    padding: 0px 100px 20px 100px;
+    line-height: 2;
     margin-bottom: 50px;
 }
 .btn {
